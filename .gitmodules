@@ -1,0 +1,15 @@
+[submodule "recon_bias"]
+	path = recon_bias
+	url = https://github.com/lotterlab/recon_bias.git
+[submodule "pix2pix"]
+	path = pix2pix
+	url = https://github.com/MatteoWohlrapp/pix2pix.git
+[submodule "image-restoration-sde"]
+	path = image-restoration-sde
+	url = https://github.com/MatteoWohlrapp/image-restoration-sde.git
+[submodule "recon_bias_evaluation"]
+	path = recon_bias_evaluation
+	url = https://github.com/MatteoWohlrapp/recon_bias_evaluation.git
+[submodule "torchxrayvision"]
+	path = torchxrayvision
+	url = https://github.com/mlmed/torchxrayvision.git
